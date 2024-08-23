@@ -1,0 +1,27 @@
+Inicio
+Separar a Farinha
+Separar os ovos
+Separar o sal
+Separar a água
+Espalhar a farinha
+Misturar o sal com a farinha
+Abrir espaço no centro
+Adicionar Ovos
+Pegar o ovo
+Quebrar o ovo
+O ovo está bom?
+   Se sim 
+   colocar o ovo no centro da farinha
+   Se não
+   Pegar outro ovo
+Já coloquei todos os ovos?
+   Se não
+ Vá para Adicionar Ovos
+Colocar água
+Sovar a massa
+A massa está no ponto?
+   Se não 
+   Vá para Colocar água
+   Se sim
+   Final
+
